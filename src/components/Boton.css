@@ -1,0 +1,48 @@
+.boton-click {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  font-weight: 700;
+  cursor: pointer;
+  width: 300px;
+  margin-bottom: 2rem;
+}
+
+.boton-click:hover {
+  background-color: #3e8e41; /* Green */
+}
+
+.boton-click:active {
+  background-color: #3e8e41; /* Green */
+  transform: translateY(4px);
+}
+
+.boton-reiniciar{
+  background-color: #f44336; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  font-weight: 700;
+  cursor: pointer;
+  width: 300px;
+}
+
+.boton-reiniciar:hover {
+  background-color: #d32f2f; /* Green */
+}
+
+.boton-reiniciar:active {
+  background-color: #d32f2f; /* Green */
+  transform: translateY(4px);
+}
